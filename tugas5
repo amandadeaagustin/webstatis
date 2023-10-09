@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="Indonesia">
+<head>
+    <title style="text-align: center; background-color: black (233, 192, 183); font-style:oblique; font-size: 16 px 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+    LibNews</title>
+       <link rel="icon" type="image/x-ixon" href="image/favicon.png">   
+
+<style>
+    body {
+        background-image: url(image/bcwhite.jpg);
+        background-attachment:scroll;
+        backdrop-filter: blur(01px);
+        padding-left: 0%;
+        padding-right: 0%;
+        padding-bottom: 0%;
+        padding-top: 0%;
+        height:auto;
+        text-align: justify;
+        }
+    img {
+        display:auto;
+        margin-left: auto;
+        margin-right: auto;
+        }
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even) {
+        background-color: #dddddd;
+      }
+</style>
+</head>
+
+<body> 
+ <!---HTML CLASESS-->
+ <style>
+    .note {
+        font-size: 120%;
+        color: red;
+    }
+ </style>
+
+ <!---HTML ID-->
+<style> 
+    #B {
+        color:rgb(167, 0, 0);
+        font-family: bookman old style; 
+    }
+</style>
+
+</body>
+
+<!-- Container for the main content -->
+<div style="font-family:verdana; background-color: rgba(255, 255, 255, 0.986); color: rgb(84, 113, 192) ; text-align: center ; font-size:100%; margin-left: 18%; margin-right: 18%; padding-left: 2%; padding-bottom: 0%; padding-right: 2%; padding-top: 10px;"><br>
+    <img src="image/favicon.png"; width="60" height="60" alt="favicon" class="center">
+    <p style=" border: 1px solid black; text-align: center; font-style: normal; font-size: 12px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+    <span class="note">LibNews.com</span></p>
+<h1 style="text-align: center; font-style:oblique; font-size: 25px; font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ; color: rgb(0, 0, 0);">
+   FREEDOM INSTITUTE: PERPUSTAKAAN UMUM DENGAN GAYA DESAIN INTERIOR <q>INDUSTRI</q> DI JAKARTA</h1>
+<p 
+   style="text-align: center; font-style: normal; font-size: 12px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+   Editor: <i>Amanda Dea Agustin</i> (11210251000009) - 5A IPI</p>
+
+   <!-- Gambar dengan link -->
+   <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBF-pLxpp744wzZtXHNMY782imW0-Yy8gnBWHt8BAUnET9jtgejye-49fQnSR39FNRKnSRxtSKRX27X4iCJhtWwUJSUWotLgRrH2xYUBiAvDlifrFOmEpVD_BFvWrkF5o-dBwG3ZVoeCjjBZm13eLfN3yLa0o1Gzo8qkVzoBqaGUItFydpUnzXN4I24Q/s1600/6.jpg"> 
+   <img src="image/perpusfreedom.jpg"; width="560" height="380" alt="perpusfreedom" class="center"></a>   
+<br>
+
+<p style="text-align:justify; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+    <span class="note">Freedom Institute</span> adalah perpustakan umum yang memiliki nuansa desain interior industri dan perpustakaan Freedom ini menggunakan pemilihan warna coklat serta atmosfer yang hangat. Serta saat kamu berkunjung ke perpus ini, kamu akan terasa nyaman. Banyak mahasiswa, bahkan karyawan yang berkunjung ke perpus Freedom untuk mengerjakan tugas, berdiskusi ataupun membaca di tempat.
+    Jenis koleksi yang dimiliki perpustakaan freedom ini sangat banyak dan disusun sesuai dengan tema, seperti koleksi buku mengenai filsafat, agama, politik, ekonomi, sosiologi, sastra, dan lain-lain. Akan tetapi, bagi kamu yang ingin memanfaatkan koleksi buku yang ada di perpustakaan ini, kamu hanya bisa membacanya ditempat nih readers. 
+    Sehingga, pengunjung luar tidak diperbolehkan meminjam koleksi buku di perpustakaan freedom ini.</p>
+
+<h1 style="text-align: left;">Fasilitas, Layanan dan Jenis Koleksi:</h1><hr color="brown">
+   <!-- Gambar dengan link -->
+   <a href="http://www.freedom-institute.org/perpustakaan-freedom-bukan-sekadar-untuk-ngadem-35"> 
+    <img src="image/fasilitas.jpg"; width="560" height="380" alt="perpusfreedom" class="center"></a>   
+ <br><p style="text-align:justify; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+  Berikut ini perpustakaan Freedom memiliki beberapa fasilitas, layanan, dan jenis koleksi yang dapat kamu manfaatkan:</p>
+  <h2 style="text-align:justify; color:black; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+    <li>Fasilitas Perpustakaan Freedom:</h2></li>
+  <!-- HTMl List-->
+    <ol style="text-align:justify; color:black; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+    <li>Ruang Baca</li>
+    <li>Koleksi Buku</li>
+    <li>Komputer (OPAC)</li>
+    <li>Tempat Penitipan Tas</li>
+    <li>AC</li>
+    <li>Mushola</li>
+    <li>WiFi</li>
+    <li>Kartu Anggota</li>
+    </ol></p>
+
+<h2 style="text-align:justify; color:black; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+    <li>Layanan Perpustakaan Freedom:</h2></li>  
+   
+    <!-- HTMl Tables -->
+      <table style="color: black;">
+        <tr style="text-align: center;">
+          <th>No</th>
+          <th>Jenis Layanan</th>
+          <th>Keterangan</th></tr>
+        <tr>
+          <td>1.</td>
+          <td>Ruang Baca</td>
+          <td>Ruang Baca ini dapat dimanfaatkan pemustaka saat membaca koleksi buku di perpustakaan, tersedia ruang baca yang nyaman dengan desain interior berbentuk model kayu dan sofa melingkar</td>
+        </tr>
+        <tr>
+          <td>2.</td>
+          <td>Sirkulasi</td>
+          <td>Layanan sirkulasi ini dapat dimanfaatkan pemustaka, bagi mereka yang ingin melakukan peminjaman, pengembalian, dan perpanjangan koleksi.
+          </td>
+        </tr>
+        <tr>
+          <td>3.</td>
+          <td>Pendaftaran Anggota</td>
+          <td>Pemustaka dapat melakukan pendaftaran anggota langsung ke perpustakaan freedom dengan membawa KTP dan alat tulis untuk mengisi formulir yang disediakan. Serta nantinya pemustaka akan mendapatkan kartu keanggotaan.</td>
+        </tr>
+        <tr>
+          <td>4.</td>
+          <td>Referensi</td>
+          <td>Layanan referensi ini, perpustakaan freedom menyediakan jenis koleksi referensi politik, sosial, filsafat, novel, ekonomi, dan lain-lain.</td>
+        </tr>
+        <tr>
+          <td>5.</td>
+          <td>Katalog Online (OPAC)</td>
+          <td>Layanan ini pemustaka dapat mengakses secara langsung di perpustakaan Freedom ataupun secara online dari luar perpustakaan melalui
+          <a href="http://perpustakaanfreedom.com/">http://perpustakaanfreedom.com/</a></td>
+        </tr></table><br>
+
+      <!-- HTMl List-->
+        <p style="text-align:justify;color:black; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+        Selain itu juga terdapat beberapa jenis koleksi yang dimiliki perpustakaan Freedom diantaranya yaitu:</p>
+        <p style="text-align:justify; color:black; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+        <h2 style="text-align:justify; color:black; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+        <li>Jenis Koleksi:</h2></li>
+        <ol style="text-align:justify; color:black; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+        <li><b>Koleksi Referensi</b>, yaitu kumpulan bahan pustaka yang memuat informasi referensi berkaitan dengan topik politik, ekonomi, sosial, filsaftar dan lain-lain. Koleksi ini dapat dijadikan sebagai bahan rujukan seperti ensiklopedia, kamus, indeks, dan abstrak.</li>
+        <li><b>Sastra</b>, selain itu juga perpustakaan freedom memiliki koleksi sastra seperti Novel, puisi, dan lain-lain yang juga berbahasa Indonesia dan Inggris.</li>
+        <li><b>Terbitan Berseri</b>, seperti koleksi majalah, jurnal dan koran baik nasional ataupun internasional. Bahkan perpustakaan Freedom berlangganan jurnal dan majalah dari luar Negeri seperti <i>Asian Survey, Bulletin Of Indonesian Economic Studies, Commentary,</i> dan lain-lain</li>
+        </ol></p>
+
+      <!---HTML ID-->
+<h1 style="text-align: left;">Lokasi dan Jam Operasional:</h1><hr color="brown">
+<p style="text-align:justify;color:black; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+    Berikut ini lokasi dan jam operasional perpustakaan Freedom:<br><br>
+    <h2 id="B"><b>Alamat</b>:<br></h2>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.3835370275897!2d106.82723827448268!3d-6.213042793774849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f46c1bb36901%3A0x541c4bed464fbe7e!2sPerpustakaan%20Freedom!5e0!3m2!1sid!2sid!4v1696845765971!5m2!1sid!2sid" class="center" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <p style="text-align:justify;color:black; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+      Jl. Wisma Bakrie, Jl. H. R. Rasuna Said No.11, RT.5/RW.2 12920 Daerah Khusus Ibukota Jakarta Daerah Khusus Ibukota Jakarta.</p>
+    <h2 id="B"><b>Jam Operasional</b>:<br></h2>
+    <ul style="list-style-type:square; text-align:justify;color:black; font-style: normal; font-size: 14x; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+    <li>Senin-Jumat: 09.00 - 16.00 WIB</li><br>
+    <li>Sabtu & Minggu: Tutup</li></ul></p><br>
+    
+     <!---HTML Media-->
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/tHMu2bvHlYs?si=9cZpn6lMRO9__aHf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <!---HTML FORM-->
+    <form style="text-align: justify; font-style: normal; font-size: 14px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+    <h2><i>Leave a Reply:</i></h2><hr>
+        <h2><b>Apakah Kamu Tertarik Untuk Berkunjung Ke Perpustakaan Freedom?</b></h1>
+    <form>
+      <input type="radio" id="Ya" name="fav_language" value="Ya">
+      <label for="Yes">Ya</label><br>
+      <input type="radio" id="Belum" name="fav_language" value="Belum">
+      <label for="Belum">Belum</label><br>
+      <input type="radio" id="Tidak" name="fav_language" value="Tidak">
+      <label for="No">Tidak</label>
+
+    <h2>Kritik dan Saran:</h2>
+    <label for="Nama">Nama Lengkap</label>:</label><br>
+    <input type="text" id="Nama" name="Nama" value=""><br>
+    <label for="Email:">Email:</label><br>
+    <input type="text" id="Email" name="Email" value=""><br>
+    <label for="Kritik atau Saran">Kritik atau Saran:</label><br>
+    <input type="text" id="Kritik" name="Kritik" value=""><br><br>
+    <input type="submit" value="submit">
+  </form>
+  
+<hr><p style="text-align: center; font-style: normal; font-size: 12px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+    @2023 - CopyRight by Amanda
+    <p style="text-align: left; font-style: normal; font-size: 12px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(0, 0, 0);">
+    <br>Nama : Amanda Dea Agustin (11210251000009)
+    <br>Kelas: 5A IPI - UIN Syarif Hidayatullah Jakarta
+    <br>Mata Kuliah: Pengembangan Web
+    <br>Dosen Pengampu: Pak Muhammad Azwar., S.Pd., M.Hum</p>
+</body>
+</html>
