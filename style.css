@@ -9,6 +9,7 @@
 body {
     color:rgb(255, 255, 255);
     border-radius: 1%;
+    display:contents;
 }
 
 .back {
@@ -16,7 +17,7 @@ body {
     background-size: cover;
     padding-top: 01%;
     padding-bottom: 0%;
-    background-attachment:local;
+    background-attachment:scroll;
 }
 
 * {box-sizing: border-box}
@@ -92,7 +93,7 @@ img {vertical-align:auto;}
   }
 
 img {
-    width: 40%; /*ukuran gambar*/
+    width: 45%; /*ukuran gambar*/
     height: 05%;
     margin-top: 01%;
     border-radius: 3%;
@@ -108,7 +109,7 @@ p {
     padding-right: 70px;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-size: 18px;
+    font-size: 16px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -156,7 +157,7 @@ h2 {
     padding-right: 70px;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-size: 18px;
+    font-size: 20px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -194,6 +195,26 @@ h2 {
     margin-left: 12px;
 }
 
+.pesan-tiket {
+  width: 150px;
+  height: 50px; 
+  background-color: #557dec; 
+  text-align: center;
+  margin-left: 130px;
+  margin-right: 50px;
+  line-height: 50px; 
+  border-radius: 5px; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pesan-tiket a {
+  text-decoration:none;
+  text-align: center;
+  color: #ffffff; 
+  font-size: 20px;
+  display:grid;
+}
+
 ul {
     padding-left: 64px;
     color: black;
@@ -217,6 +238,7 @@ table {
 
 .nama{
     text-align: center;
+    font-size: 14px;
     font-family: 'Times New Roman', Times, serif;
     background-color: black;
     color: white;
