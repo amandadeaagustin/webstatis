@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="Indonesia">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Berkah Jaya Klise - BJK</title>
+  <!--style css dan JS-->
+  <link rel="stylesheet" href="homestyle.css" />
+  <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+  <!--favicon dan logo-->
+  <link rel="icon" type="image/logobjk" href="image/logoBJK.png">
+
+  <!--Font-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=PT+Serif&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,900;1,400;1,500&display=swap"
+    rel="stylesheet">
+
+  <!--icons-->
+  <script src="https://kit.fontawesome.com/8693e748c0.js" crossorigin="anonymous"></script>
+</head>
+
+<!--Header dan sidebar menu kiri-->
+<header class="header">
+  <div id="mySidebar" class="sidebar">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">Close ×</a>
+    <a href="home.html" class="active"><i class="fa-solid fa-house"></i> Beranda</a>
+    <a href="#pendiriusaha"><i class="fa-solid fa-user-large"></i> Pemilik Usaha</a>
+    <a href="gallery.html"><i class="fa-solid fa-image"></i> Gallery</a>
+    <a href="polyemboss.html"><i class="fa-solid fa-shop"></i>Poly Emboss</a>
+    <a href="stempelbulat.html"><i class="fa-solid fa-shop"></i>Stempel Bulat</a>
+    <a href="pemesanan.html"><i class="fa-solid fa-address-card"></i> Pemesanan</a>
+    <a href="kontakkami.html"><i class="fa-solid fa-square-phone"></i> Kontak Kami</a>
+  </div>
+
+  <div id="main">
+    <button class="openbtn" onclick="openNav()">☰ Menu</button>
+  </div>
+
+  <!-- Logo, Navigation Bar + dropdown-->
+  <img src="image/logoBJK.png" style="height: 60px; width: 50px; margin-left: 6%;" />
+
+  <!--Navbar-->
+  <div class="navbar" id="navbar">
+    <a href="home.html"><i class="fa-solid fa-house"></i> Beranda</a>
+    <div class="dropdown">
+      <button class="dropbtn"><a href="#aboutus">Tentang Kami <i class="fa-solid fa-caret-down"></i></a></button>
+      <div class="dropdown-content">
+        <a href="#profilusaha">Profil Usaha</a>
+        <a href="#pendiriusaha">Pemilik Usaha</a>
+        <a href="#visimisi">Visi Misi</a>
+        <a href="#tujuanusaha">Tujuan Usaha</a>
+      </div>
+    </div>
+
+    <a href="gallery.html"><i class="fa-solid fa-image"></i> Gallery</a>
+
+    <div class="dropdown">
+      <button class="dropbtn"><a>Layanan<i class="fa-solid fa-caret-down"></i></a></button>
+      <div class="dropdown-content">
+        <a href="polyemboss.html">Poly Emboss</a>
+        <a href="stempelbulat.html">Stempel Bulat</a>
+      </div>
+    </div>
+
+    <a href="pemesanan.html"><i class="fa-solid fa-address-card"></i>Pemesanan</a>
+    <a href="kontakkami.html"><i class="fa-solid fa-square-phone"></i> Kontak Kami</a>
+  </div>
+  </div>
+</header><!--Header section ends-->
+
+<body>
+  <section class="beranda" id="beranda"></section>
+
+  <!--Header Gambar -->
+  <div class="back"><br>
+    <button class="button" style="border-radius: -10%" text-transform="none" font-style="normal"><a
+        href="#profilusaha">Selengkapnya</a></button>
+  </div>
+
+  <!--About Us section start-->
+  <section class="profilusaha" id="profilusaha">
+    <h1 class="h1">Profil Usaha</h1>
+    <div class="row">
+      <div class="video-container">
+        <video src="image/video1.mp4" loop autoplay muted></video>
+
+        <!--Paragraf di kanan video-->
+        <div class="content">
+          <p class="p2" style="margin-left: 2px">
+            <b>Berkah Jaya Klise (BJK)</b> adalah industri percetakan yang bergerak dalam
+            pembuatan klise, poly, dan embos untuk berbagai keperluan seperti
+            Undangan, Yasin, buku, dan lain-lain. Berlokasi di Jalan Kebayoran Lama,
+            No. 26, RT. 04/RW. 10, Jakarta Selatan, kami menekankan kualitas cetakan,
+            kepuasan pelanggan, dan kecepatan dalam memberikan layanan kami. Berkah
+            Jaya Klise, siap melayani Anda dengan kualitas yang baik dan tersedia
+            setiap hari, mulai pukul 08.00 hingga 21.00 WIB. Kami bersedia memberikan
+            pelayanan kepada Anda dalam pembuatan klise dan mengundang Anda untuk
+            mengunjungi toko kami.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section><!--About Us Profil section Ends-->
+
+  <!--Pendiri Usaha -->
+  <section class="pendiriusaha" id="pendiriusaha">
+    <div class="box-container">
+      <div class="box">
+        <h1 class="h1">Pendiri Usaha</h1>
+        <i class="fa-solid fa-user"></i>
+        <p class="p2"><br>
+          Berkah Jaya Klise didirikan oleh pak Lukman pada tahun 2016, kemudian
+          tahun 2018-saat ini pak Lukman mengembangkan usahanya yang tidak hanya
+          bergerak pada pembuatan Poly, Klise dan Emboss. Tetapi, beliau saat ini
+          juga mengembangkan usahanya dan menghasilkan layanan baru untuk pembuatan
+          <i>Stempel</i> bulat, pembuatan mesin (stempel dan poly), serta juga
+          menyediakan jasa <i>Training</i>
+          bagi Anda yang ingin membuka usaha Poly dan Emboss. Bahkan
+          usaha pembuatan dan penjualannya sudah sampai ke luar kota (Yogyakarta dan
+          Sumatera), penjualan bahan klise seperti (oli, nitrit acid, HCL, plat, dan
+          lain-lain).
+        </p><br><br>
+      </div>
+    </div>
+  </section>
+
+  <!--Visi dan Misi Section Start-->
+  <section class="visimisi" id="visimisi">
+    <div class="box-container">
+      <div class="box">
+        <h1 class="h1">Visi Misi</h1>
+        <i class="fa-solid fa-bullseye"></i><br>
+        <p class="p2">
+          <b>Visi:</b> <q>Terwujudnya industri percetakan yang memberikan hasil produk dengan
+            berkualitas tinggi bagi para pelanggan.</q>
+        </p><br><br>
+
+        <div class="p2">
+          <b>Misi:</b>
+          <li>
+            Mewujudkan jasa layanan pembuatan poly, klise dan embos yang
+            responsif dan ramah pelanggan.
+          </li>
+          <li>
+            Mewujudkan industri percetakan yang terus berkembang dan
+            berinovasi dalam teknologi percetakan.
+          </li>
+          <li>
+            Menjalin hubungan kerjasama yang kuat dengan pelanggan dan
+            memastikan kepuasan anda.
+          </li>
+          <li>
+            Memperluas cakupan usaha kami ke lebih banyak wilayah di
+            Indonesia.
+          </li>
+        </div>
+      </div>
+    </div>
+  </section><!--Visi Misi section ends-->
+
+  <!--Tujuan Usaha-->
+  <section class="tujuanusaha" id="tujuanusaha">
+    <div class="box-container">
+      <div class="box">
+        <h1 class="h1">Tujuan Usaha</h1>
+        <i class="fa-solid fa-book-open"></i>
+        <p class="p2">
+          Tujuan utama usaha kami adalah untuk memberikan layanan percetakan berkualitas tinggi dengan memenuhi
+          kebutuhan
+          pelanggan dan memastikan kepuasan mereka.
+          Selain itu kami juga bertujuan untuk terus berkembang, berinovasi, dan dapat menjangkau lebih banyak pelanggan
+          di
+          berbagai wilayah Indonesia.
+        </p>
+      </div>
+    </div><br><br>
+  </section>
+
+  <!--Slide Show Product -->
+  <section class="#product" id="product">
+    <h1 class="h1">Product</h1>
+    <div class="slideshow-container">
+      <div class="mySlides fade">
+        <div class="text">Klise Emboss</div>
+        <img src="image/product1.png" style="width:100%">
+      </div>
+
+      <div class="mySlides fade">
+        <img src="image/product2.png" style="width:100%">
+        <div class="text">Klise Emboss</div>
+      </div>
+
+      <div class="mySlides fade">
+        <img src="image/product3.png" style="width:100%">
+      </div>
+
+      <div class="mySlides fade">
+        <img src="image/product5.png" style="width:100%">
+      </div>
+
+      <div class="mySlides fade">
+        <img src="image/product6.png" style="width:100%">
+        <div class="text">Stempel bulat</div>
+      </div>
+    </div><br>
+
+    <div style="text-align:center">
+      <span class="dot" onclick="currentSlide(1)"></span>
+      <span class="dot" onclick="currentSlide(2)"></span>
+      <span class="dot" onclick="currentSlide(3)"></span>
+      <span class="dot" onclick="currentSlide(4)"></span>
+      <span class="dot" onclick="currentSlide(5)"></span>
+    </div><br>
+  </section>
+
+  <!--Gallery Section Start-->
+  <section class="mygallery" id="gallery">
+    <h1 class="h1">Gallery</h1>
+    <div class="gallery">
+      <img src="image/foto1.jpg">
+      <img src="image/foto2.jpg">
+      <img src="image/foto3.jpg">
+      <img src="image/foto4.jpg">
+      <img src="image/foto5.jpg">
+      <img src="image/foto6.jpg">
+    </div>
+  </section><!--Gallery section ends-->
+
+  <!--Layanan ke halaman berbeda-->
+
+  <!--Product section start-->
+  <section class="layanan" id="layanan"></section>
+
+  <!--Artikel Terkait Product-->
+  <div class="artikelcontainer">
+    <h1 class="heading">Artikel Terkait:</h1>
+    <div class="box-container2">
+
+      <!--Artikel 1-->
+      <div class="artikelbox">
+        <div class="image">
+          <img src="image/emboss.jpg">
+        </div>
+
+        <div class="content">
+          <a href="artikel1.html" style="text-decoration: none;">
+            <h4 class="h4">Mengenal Klise Poly, Emboss dan Deboss: Seni Percetakan dengan Gaya Unik</h4>
+          </a>
+          <p class="p2">Sebelum membahas lebih jauh, apakah kamu pernah memperhatikan cover buku dengan kata-kata atau
+            desain yang timbul atau cekung? Teknik percetakan ini dikenal sebagai emboss dan deboss. Selain digunakan
+            pada cover buku, teknik ini sering pula ditemui pada kartu nama, undangan resmi, dan produk lainnya. Emboss
+            dan deboss adalah teknik percetakan yang memberikan nilai artistik tinggi pada berbagai cetakan.
+          </p>
+          <a href="artikel1.html" class="btn">Read More</a>
+          <div class="icons">
+            <span><i class="fa-solid fa-calendar-days"></i>16 November, 2023</span>
+            <span><i class="fa-solid fa-square-pen fa-flip-horizontal"></i>Editor: Amanda Dea</span>
+          </div>
+        </div>
+      </div>
+
+      <!--Artikel 2-->
+      <div class="artikelbox">
+        <div class="image">
+          <img src="image/undangan.jpg">
+        </div>
+
+        <div class="content">
+          <a href="artikel2.html" style="text-decoration: none">
+            <h4 class="h4">Pengaplikasian Klise Poly, Emboss, dan Deboss Pada Bahan Cetak</h4>
+          </a>
+          <p class="p2">Klise emboss adalah teknik percetakan yang memiliki aplikasi yang sangat luas. Biasanya, teknik
+            ini digunakan dalam pembuatan undangan pernikahan dan acara khusus lainnya untuk memberikan sentuhan mewah
+            dan elegan pada cetakan. Penggunaan klise emboss menciptakan efek teks yang menonjol di atas permukaan bahan
+            cetakan, menciptakan tampilan yang istimewa.
+          </p>
+          <a href="artikel2.html" class="btn">Read More</a>
+
+          <div class="icons">
+            <span><i class="fa-solid fa-calendar-days"></i>16 November, 2023</span>
+            <span><i class="fa-solid fa-square-pen fa-flip-horizontal"></i>Editor: Amanda Dea</span>
+          </div>
+        </div>
+      </div>
+
+      <!--Artikel 3-->
+      <div class="artikelbox">
+        <div class="image">
+          <img src="image/foto6.jpg">
+        </div>
+
+        <div class="content">
+          <a href="artikel3.html" style="text-decoration: none">
+            <h4 class="h4">Informasi Daftar Harga Pembuatan Klise Poly, Emboss, Stempel</h4>
+          </a>
+          <p class="p2">Harga dalam dunia percetakan memiliki peran penting dalam merencanakan proyek dan anggaran.
+            Untuk memahami berapa biaya yang harus disiapkan untuk pembuatan klise poly, emboss, atau stempel, penting
+            untuk memahami faktor-faktor yang memengaruhi harga. Dalam artikel ini, kami akan membahas informasi rinci
+            tentang daftar harga untuk pembuatan klise poly, emboss, dan stempel di Berkah Jaya Klise.
+          </p>
+          <a href="artikel3.html" class="btn">Read More</a>
+          <div class="icons">
+            <span><i class="fa-solid fa-calendar-days"></i>16 November, 2023</span>
+            <span><i class="fa-solid fa-square-pen fa-flip-horizontal"></i>Editor: Amanda Dea</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div><br><br>
+
+  <!--Whatsapp Responsive-->
+  <a class="wa_btn" href="https://wa.me/qr/F735T3VYPWEXK1"><i class="fa-brands fa-whatsapp"></i></a>
+
+  <!--Lokasi Maps Embed dan Kontak kami-->
+  <div class="container">
+    <div class="card-container">
+      <div class="left">
+        <div class="left-container">
+          <h1 class="h1">Lokasi</h1><br>
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.262844688838!2d106.77639597439173!3d-6.229036993759106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f1caeb86db0b%3A0x48af40bc4d189a49!2sBerkah%20Jaya%20Klise(BJK)!5e0!3m2!1sid!2sid!4v1700020364674!5m2!1sid!2sid"
+            width="350" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+
+      <section class="kontakkami" id="kontakkami">
+        <div class="right">
+          <div classs="right-container">
+            <form action="">
+              <h1 class="h1">Kontak Kami</h1><br>
+              <div class="iconfooter">
+                <a href=""><i class="fa-brands fa-facebook"></i></a>
+                <a href=""><i class="fa-brands fa-instagram"></i></a>
+                <a href="home.html"><i class="fa-solid fa-globe"></i></a>
+                <a href="https://wa.me/qr/F735T3VYPWEXK1"><i class="fa-brands fa-whatsapp"></i></a>
+                <a href=""><i class="fa-brands fa-twitter"></i></a>
+              </div>
+
+              <div class="textarea">
+                <input type="text" placeholder="Nama">
+                <input type="email" placeholder="Alamat Email">
+                <input type="text" placeholder="Perusahaan" autocomplete="off">
+                <input type="phone" placeholder="Telepone" autocomplete="off">
+                <textarea rows="10" placeholder="Pesan"></textarea>
+                <button class="button">Kirim</button>
+            </form>
+          </div>
+        </div>
+    </div>
+  </div><br>
+
+  <!--Footer Logo, Copyright dan Hubungi Kami-->
+  <footer class="footer">
+    <div class="footer-left">
+      <img src="image/logoBJK.png" alt="logobjk">
+      <h3>Berkah Jaya Klise - BJK</h3>
+
+      <div class="footer-center">
+        <div>
+          <p><i class="fa-solid fa-location-dot"></i><b> Lokasi:</b><br>Jl. Kebayoran Lama, No. 26, Rt. 04/Rw. 10, Kel.
+            Grogol Selatan, Kec. Kebayoran Lama, Jakarta Selatan.</p>
+        </div><br>
+
+        <div>
+          <p><i class="fa-solid fa-phone"></i> +62 857 726 162 21</p>
+        </div><br>
+
+        <div>
+          <p><i class="fa-regular fa-envelope"></i><a href="mailto:kularema@gmail.com">Kularema@gmail.com</p></a>
+        </div>
+      </div>
+
+      <!--Footer Copyright-->
+      <p class="copyright"><i class="fa-regular fa-copyright"></i> 2023 Amanda Dea Agustin. All Right Reserved.</p><br>
+
+      <!--Footer icon link sosial media-->
+      <div class="iconfooter">
+        <a href=""><i class="fa-brands fa-facebook"></i></a>
+        <a href=""><i class="fa-brands fa-instagram"></i></a>
+        <a href="home.html"><i class="fa-solid fa-globe"></i></a>
+        <a href="https://wa.me/qr/F735T3VYPWEXK1"><i class="fa-brands fa-whatsapp"></i></a>
+        <a href=""><i class="fa-brands fa-twitter"></i></a>
+      </div>
+
+  </footer>
+
+  <!--Javascript-->
+  <script src="https://unpkg.com/scrollreveal"></script>
+  <script src="scriptuts.js"></script>
+
+</body>
+
+</html>
